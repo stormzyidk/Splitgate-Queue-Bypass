@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,58): error C2039: 'string_view': is not a member of 'std'
+D:\Files\Visual Studio\vs\VC\Tools\MSVC\14.28.29910\include\algorithm(40): message : see declaration of 'std'
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,70): error C2061: syntax error: identifier 'string_view'
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,40): error C2065: 'module_name': undeclared identifier
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(50,8): error C2660: 'strcmp': function does not take 1 arguments
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(100,13): message : see declaration of 'strcmp'
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,87): error C2660: 'get_module_base_address': function does not take 2 arguments
+C:\Users\moham\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,11): message : see declaration of 'get_module_base_address'
