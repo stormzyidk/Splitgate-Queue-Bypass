@@ -1,7 +1,0 @@
-﻿D:\Files\Visual Studio\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Splitgate.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  ConsoleApplication1.vcxproj -> C:\Users\moham\Desktop\SplitgateBypass\x64\Release\Splitgate Bypass.exe
